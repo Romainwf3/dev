@@ -1,0 +1,336 @@
+{
+    "MENU_EXTERIOR" : {
+
+        "HULL" : {
+            "TITLE" : "Hull",
+
+            "COLOR" : {
+                "TITLE" : "Color",
+                "WHITE" : "white",
+                "RAL5010" : "RAL 5010",
+                "RAL3000" : "RAL 3000",
+                "RAL7016" : "RAL 7016"
+            },
+
+            "OPTION" : {
+                "TITLE" : "Option",
+                "Vacuum" : "Vacuum infusion technology for hull and deck laminate"
+            }
+        },
+
+        "DECK" : {
+            "TITLE" : "Deck",
+
+            "DECK" : {
+                "TITLE" : "Deck",
+                "WHITE" : "white",
+                "RAL5010" : "RAL 5010",
+                "RAL3000" : "RAL 3000",
+                "RAL7016" : "RAL 7016"
+            },
+
+            "WALKER_DECK" : {
+                "TITLE" : "Walking-deck",
+                "WHITE" : "white",
+                "RAL5010" : "ral5010",
+                "RAL3000" : "ral3000",
+                "RAL7016" : "ral7016",
+                "DECK_TEKDEK" : "Deck TekDek",
+                "DECK" : "EVA Deck Foam"
+            },
+
+            "COCKPIT" : {
+                "TITLE" : "Cockpit",
+                "WHITE" : "white2",
+                "RAL5010" : "ral50102",
+                "RAL3000" : "ral30002",
+                "RAL7016" : "ral70162",
+                "COCKPIT_TEKDEK" : "Cockpit TekDek",
+                "COCKPIT" : "EVA Cockpit Foam"
+            },
+
+            "OPTION" : {
+                "TITLE" : "Options",
+                "OPTION_PORTLIGHTS" : "Two openable portlights for aft beds",
+                "FOLLDING_LADDER" : "Folding ladder on transom",
+                "FOLLDING_TABLE" : "Folding table in Cockpit"
+            }
+        }, 
+
+        "DECK_FITTINGS" : {
+            "TITLE" : "Deck fittings",
+
+            "JIB" : {
+                "TITLE" : "Deck flitting",
+                "TRACKS" : "2 jib pin travellers HARKEN",
+                "TRAVELLERS" : "2 jib travellers HARKEN - cockpit handling"
+            },
+
+            "CLEATS" : {
+                "TITLE" : "Cleats",
+                "STANDAR" : "Standard mooring cleats",
+                "RECTRACTABLE" : "6 retractable cleats ANTAL"
+            },
+
+            "RAILING" : {
+                "TITLE" : "Railing",
+                "GROUP1" : "Pulpit + Pushpit + Reiling + Mast lowering system + Mast support",
+                "GROUP2" : "Black powder coated Pushpit + Reiling + Mast lowering system + Mast support"
+            },
+            
+            "OPTION" : {
+                "TITLE" : "Options",
+                "SELFTRACKING" : "Selftacking jib fittings",
+                "BARTON" : "6 BARTON halyards holders"
+            }
+        },
+
+        "STEERING_KEEL" : {
+            "TITLE" : "Steering system and keel",
+
+            "RUDDER" : {
+                "TITLE" : "Rudder",
+                "SINGLE_TILLER" : "Single stern rudder + tiller",
+                "SINGLE_STEERING" : "Single stern rudder + steering wheel (JEFA STEERING draglink system)",
+                "TWIN_TILLER" : "Twin stern rudder + tiller",
+                "TWIN_STEERING" :  "Twin stern rudder + steering wheel (JEFA STEERING draglink system)",
+                "SHAFT_TILLER" : "Shaft rudder + tiller",
+                "SHAFT_STEERING" : "Shaft rudder + steering wheel (JEFA STEERING draglink system)"
+            },
+            
+            "OPTION" : {
+                "TITLE" : "Option",
+                "ELECTRIC_PUMP" : "Electric pump for keel hydraulic"
+            }
+        },
+
+        "RIGGING" : {
+            "TITLE" : "Rigging",
+            
+            "MAST" : {
+                "TITLE" : "Mast",
+                "ALUMINIUM" : "Aluminium mast with 2 sets of spreaders",
+                "CARBON" : "Carbon mast with 2 sets of spreaders"
+            },
+
+            "BOOM" : {
+                "TITLE" : "Boom",
+                "ALUMINIUM" : "Aluminium boom",
+                "CARBON" : "carbon boom"
+            },
+
+            "VANG" : {
+                "TITLE" : "Vang",
+                "HARKEN" : "HARKEN vang system",
+                "BACKSTAY" : "Backstay and vang - cockpit handling"
+            },
+
+            "BOWSPRIT" : {
+                "TITLE" : "Bowsprit",
+                "RETRACTABLE_BOWSPRIT" : "retractable bowsprit + deck fittings",
+                "FIXED_BOWSPRIT" : "Fixed bowsprit"
+            },
+
+            "OPTION" : {
+                "TITLE" : "Options",
+                "HIDE_BTN" : "hide_btn",
+                "MAST_BOOM_BLACK" : "Painting mast and boom in black color",
+                "DYNEEMA" : "Dyneema halyards",
+                "REEF" : "Reef",
+                "CUNNINGHAM" : "Cunningham"
+            }
+        },
+
+        "SAILS" : {
+            "TITLE" : "Sails",
+
+            "SAILS" : {
+                "TITLE" : "Sails",
+                "JIB" : "Jib ca 21 sqm dacron Contender AP, Main ca 27 sqm dacron Contender AP",
+                "POLYANT" : "Sails: Polyant DCX (white or grey laminate)",
+                "MEMBRANE" : "Sails: Membrane Carbon/Black Kevlar",
+                "LITESKIN" : "Sails: LiteSkin"
+            },
+
+            "85SQM" : {
+                "TITLE" : "85sqm gennaker Contender SuperKote 90",
+                "TURQUOISE" : "Turquoise",
+                "YELLOW" : "Yellow",
+                "BLACK" : "Black",
+                "RED" : "Red"
+            }    
+        },
+
+        "ELECT_SYSTEMES" : {
+            "TITLE" : "Electric and electronic systems",
+            
+            "SPEED" : {
+                "TITLE" : "Speed",
+                "ST_40" : "ST 40 speed + depth RAYMARINE",
+                "I70" : "I70 speed + depth + wind RAYMARINE"
+            },
+
+            "OPTION" : {
+                "TITLE" : "Options",
+                "AXIOM7" : "Axiom7 chartplotter RAYMARINE + depth",
+                "EV-200" : "Autopilot RAYMARINE EV-200",
+                "HELLA" : "Cockpit lights Hella",
+                "NAV_LIGHTS" : "Navigation lights (anchor, navigation, engine)"
+            }
+        },
+
+        "ENGINE" : {
+            "TITLE" : "Engine",
+
+            "ENGINE_POWER" : {
+                "TITLE" : "Engine power",
+                "GASOLINE" : "6HP Gasoline Outboard Mercury",
+                "ELECTRIC" : "6HP Electric outboard (EPropulsion Navy 3.0 incl. Battery, Charger and Control)",
+                "YANMAR" : "14HP YANMAR engine",
+                "GREENSTAR" :  "6kW inboard GREENSTAR electric engine +4x100Ah AGM + battery chargers 24V",
+                "POD_DRIVE" : "3HP Electric Pod Drive (EPropulsion Pod 3.0 incl. Battery, Charger and Control)"
+            },
+
+            "OPTION" : {
+                "TITLE" : "Options",
+                "FITTING" : "Outboard engine fitting",
+                "ENGINE_BOX" : "Outboard engine box under deck, laminated into hull",
+                "FOLDING" : "Folding propeller for inboard engine",
+                "FUEL_TANK" : "50L fuel tank"
+            }
+        },
+
+        "OTHER_EXTRA" : {
+            "TITLE" : "Other extras",
+
+            "OPTION" : {
+                "TITLE" : "Option",
+                "OPTION1" : "Steel + laminate cradle",
+                "OPTION2" : "Wheels for cradle",
+                "OPTION3" : "Custom road trailer for N Fun with longside supports",
+                "OPTION4" : "Deck cover (with mast and shrouds positions cut)",
+                "OPTION5" : "Sprayhood",
+                "OPTION6" : "Bimini",
+                "OPTION7" : "Rudder cover",
+                "OPTION8" : "Mast cover",
+                "OPTION9" : "Lazy bag Main Sail Cover",
+                "OPTION10" : "Jib sock",
+                "OPTION11" : "Steering wheel cover",
+                "OPTION12" : "Seats and backrests in cockpit",
+                "OPTION13" : "Deck bow mattresses",
+                "OPTION14" : "Rig Tension Meter",
+                "OPTION15" : "6 fenders in material protectors, 4 mooring lines, anchor + rope"
+            }
+        }
+    },
+
+    "MENU_INTERIOR" : {
+        
+        "ELECTRONIC_DEVICES" : {
+            "TITLE" : "Electronic devices",
+            "RADIO_CD" : "Radio CD + 4 loudspeakers"   
+        },
+
+        "INTERIOR_DESIGN" : {
+            "TITLE" : "Interior design",
+
+            "HPL" : {
+                "TITLE" : "HPL fronts",
+                "WHITE" : "White",
+                "GRAPHITE" : "Graphite",
+                "TEAK" : "Teak veneer",
+                "BIRTCH" : "Birtch veneer"
+            },
+
+            "WOODEN_LOCKERS" : {
+                "TITLE" : "Lockers (along the sides)",
+                "WHITE" : "White",
+                "GRAPHITE" : "Graphite",
+                "TEAK" : "Teak veneer",
+                "BIRTCH" : "Birtch veneer"
+            },
+
+            "PLYWOOD_FLOOR" : {
+                "TITLE" : "Waterproof plywood floor",
+                "TEAK_BLACK" : "Teak + black stripes",
+                "TEAK_WHITE" : "Teak + white stripes",
+                "BLACK" : "Black"
+            },
+
+            "OPTION" : {
+                "TITLE" : "Option",
+                "BOX_TABLE" : "Composite keel box cover + four piece table"
+            }
+        },
+
+        "UPHOLSTERY" : {
+            "TITLE" : "Upholstery",
+            
+            "MATT_BACKREST" : {
+                "TITLE" : "Mattresses and backrest",
+                "WHITE" : "White",
+                "BEIGE" : "Beige",
+                "GRAPHITE" : "Graphite",
+                "BLUE" : "Blue"
+            },
+
+            "LED" : {
+                "TITLE" : "Indirect LED Lighting Ceiling Panel",
+                "WHITE" : "White",
+                "BEIGE" : "Beige",
+                "GRAPHITE" : "Graphite",
+                "BLUE" : "Blue"
+            },
+
+            "TEXTILE" : {
+                "TITLE" : "Textile sides in saloon, front cabin and aft cabin",
+                "WHITE" : "White",
+                "BEIGE" : "Beige",
+                "GRAPHITE" : "Graphite",
+                "BLUE" : "Blue"
+            }
+        },
+
+        "CABINET" : {
+            "TITLE" : "Galley cabinet",
+
+            "2WOOD" : {
+                "TITLE" : "2 galley cabinets",
+                "WHITE" : "White",
+                "GRAPHITE" : "Graphite",
+                "TEAK" : "Teak veneer",
+                "BIRTCH" : "Birtch veneer"
+            },
+
+            "CABINET2" : {
+                "TITLE" : "Choice of galley cabinets tops color",
+                "LIGHT_BEIGE" : "Light biege",
+                "DARK_GRAPHITE" : "Dark Graphite"
+            },
+
+            "FRIDGE" : {
+                "TITLE" : "20L drawer fridge",
+                "BRUSHES" : "Brushes stainless steel",
+                "WHITE" : "White",
+                "BLACK" : "Black"
+            },
+
+            "OPTION" : {
+                "TYPE" : "checkbox",
+                "GLAS" : "Glas ceramic gas cooker (2 burner)",
+                "INSTALLATION" : "Water installation, electric water pump and sink",
+                "TANK_50L" : "50L water tank (bag)"
+            }
+        },
+
+        "TOILET" : {
+            "TITLE" : "Toilet",
+
+            "CHOICE" : {
+                "TITLE" : "Choice",
+                "CHEMICAL" : "Chemical toilet",
+                "WITH_TANK" : "Sea toilet with holding tank"
+            }
+        }
+    }
+}

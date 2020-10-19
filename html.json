@@ -1,0 +1,1036 @@
+{ 
+    "MENU_EXTERIOR": {
+
+        "HULL": {
+            
+            "COLOR": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1000",
+                    "TITLE" : "Farbe",
+                    "TYPE": "radio"
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2000",
+                    "ID_OPTION": "option1602252755453"
+                },
+
+                "RAL5010": {
+                    "ID_INTERNAL": "2001",
+                    "ID_OPTION": "option1602252778255"
+                },
+
+                "RAL3000": {
+                    "ID_INTERNAL": "2067",
+                    "ID_OPTION": "option1602252792244"
+                },
+
+                "RAL7016": {
+                    "ID_INTERNAL": "2068",
+                    "ID_OPTION": "option1602252811010"
+                }
+            },
+
+            "OPTION": {
+
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "Vacuum": {
+                    "ID_GROUP": "1001",
+                    "ID_INTERNAL": "2002"
+                }
+            }
+        },
+
+        "DECK": {
+
+            "DECK": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1002",
+                    "TITLE" : "Deck",
+                    "TYPE": "radio"
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2003",
+                    "ID_OPTION": "option1602253197018"
+                },
+
+                "RAL5010": {
+                    "ID_INTERNAL": "2004",
+                    "ID_OPTION": "option1602253214205"
+                },
+
+                "RAL3000": {
+                    "ID_INTERNAL": "2069",
+                    "ID_OPTION": "option1602253226832"
+                },
+
+                "RAL7016": {
+                    "ID_INTERNAL": "2070",
+                    "ID_OPTION": "option1602253262389"
+                }
+            },
+            
+            "WALKER_DECK": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1003",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2005",
+                        "ID_OPTION": "option1602763116614"
+                    }  
+                },
+
+                "WHITE": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602763116614"
+                },
+
+                "RAL5010": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602763124527"
+                },
+
+                "RAL3000": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602763130862"
+                },
+
+                "RAL7016": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602763136738"
+                },
+
+                "DECK_TEKDEK": {
+                    "ID_INTERNAL": "2007",
+                    "ID_OPTION": "option1602253343892"
+                },
+
+                "DECK": {
+                    "ID_INTERNAL": "2072",
+                    "ID_OPTION": "option1602253362266"
+                }
+            },
+
+            "COCKPIT": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1067",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2130",
+                        "ID_OPTION": " "
+                    }
+                },
+
+                "WHITE": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602762942984"
+                },
+
+                "RAL5010": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602762962982"
+                },
+
+                "RAL3000": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602762969302"
+                },
+
+                "RAL7016": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602762975072"
+                },
+
+                "COCKPIT_TEKDEK": {
+                    "ID_INTERNAL": "2006",
+                    "ID_OPTION": "option1602253387187"
+                },
+
+                "COCKPIT": {
+                    "ID_INTERNAL": "2071",
+                    "ID_OPTION": "option1602253401664"
+                }
+            },
+
+            "OPTION": {
+
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "OPTION_PORTLIGHTS": {
+                    "ID_GROUP": "1004",
+                    "ID_INTERNAL": "2008",
+                    "ID_OPTION": "option1602753541823"
+                },
+
+                "FOLLDING_LADDER": {
+                    "ID_GROUP": "1005",
+                    "ID_INTERNAL": "2009",
+                    "ID_OPTION": "option1602753560008"
+                },
+
+                "FOLLDING_TABLE": {
+                    "ID_GROUP": "1006",
+                    "ID_INTERNAL": "2010",
+                    "ID_OPTION": "option1602753575666"
+                }
+            }
+        },
+
+        "DECK_FITTINGS": {
+
+            "JIB": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1007",
+                    "TYPE": "radio"
+                },
+                "TRACKS": {
+                    "ID_INTERNAL": "2011"
+                },
+                "TRAVELLERS": {
+                    "ID_INTERNAL": "2012"
+                }
+            },
+
+            "CLEATS": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1008",
+                    "TYPE": "radio"
+                },
+
+                "STANDAR": {
+                    "ID_INTERNAL": "2013"
+                },
+
+                "RECTRACTABLE": {
+                    "ID_INTERNAL": "2014"
+                }
+            },
+
+            "RAILING": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1009",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2015",
+                        "ID_OPTION": "option1602254616248"                            
+                    }
+                },
+
+                "GROUP1": {
+                    "ID_INTERNAL": "2016",
+                    "ID_OPTION": "option1602254695803"
+                },
+
+                "GROUP2": {
+                    "ID_INTERNAL": "2073",
+                    "ID_OPTION": "option1602254750264"
+                }
+            },
+
+            "OPTION": {
+
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "SELFTRACKING": {
+                    "ID_GROUP": "1011",
+                    "ID_INTERNAL": "2018",
+                    "ID_OPTION": "option1602753609070"
+                },
+
+                "BARTON": {
+                    "ID_GROUP": "1012",
+                    "ID_INTERNAL": "2019"
+                }
+            }
+        },
+
+        "STEERING_KEEL": {
+
+            "RUDDER": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1013",
+                    "TYPE": "radio"
+                },
+
+                "SINGLE_TILLER": {
+                    "ID_INTERNAL": "2020",
+                    "ID_OPTION": "option1602255230319"
+                },
+
+                "SINGLE_STEERING": {
+                    "ID_INTERNAL": "2075",
+                    "ID_OPTION": "option1602255255297"
+                },
+
+                "TWIN_TILLER": {
+                    "ID_INTERNAL": "2021",
+                    "ID_OPTION": "option1602255276145"
+                },
+
+                "TWIN_STEERING": {
+                    "ID_INTERNAL": "2076",
+                    "ID_OPTION": "option1602255319057"
+                },
+
+                "SHAFT_TILLER": {
+                    "ID_INTERNAL": "2074",
+                    "ID_OPTION": "option1602255335789"
+                },
+
+                "SHAFT_STEERING": {
+                    "ID_INTERNAL": "2077",
+                    "ID_OPTION": "option1602255425236"
+                }
+            },
+
+            "OPTION": {
+
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "ELECTRIC_PUMP": {
+                    "ID_GROUP": "1014",
+                    "ID_INTERNAL": "2022"
+                }
+            }
+        },
+
+        "RIGGING": {
+
+            "MAST": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1015",
+                    "TYPE": "radio"
+                },
+
+                "ALUMINIUM": {
+                    "ID_INTERNAL": "2023",
+                    "ID_OPTION": "option1602257558128"
+                },
+
+                "CARBON": {
+                    "ID_INTERNAL": "2024",
+                    "ID_OPTION": "option1602257780860"
+                }
+            },
+
+            "BOOM": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1016",
+                    "TYPE": "radio"
+                },
+
+                "ALUMINIUM": {
+                    "ID_INTERNAL": "2025",
+                    "ID_OPTION": "option1602257820410"
+                },
+
+                "CARBON": {
+                    "ID_INTERNAL": "2026",
+                    "ID_OPTION": "option1602257953890"
+                }
+            },
+
+            "VANG": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1017",
+                    "TYPE": "radio"
+                },
+
+                "HARKEN": {
+                    "ID_INTERNAL":"2027"
+                },
+
+                "BACKSTAY": {
+                    "ID_INTERNAL":"2028"
+                }
+            },
+
+            "BOWSPRIT": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1022",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2129",
+                        "ID_OPTION": "option1602753592880"
+                    }
+                },
+
+                "RETRACTABLE_BOWSPRIT": {
+                    "ID_INTERNAL":"2080",
+                    "ID_OPTION": "option1602258027824"
+                },
+
+                "FIXED_BOWSPRIT": {
+                    "ID_INTERNAL":"2128",
+                    "ID_OPTION": "option1602258045094"
+                }
+            },
+
+            "OPTION": {
+
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "HIDE_BTN": {
+                    "HIDE_RADIO": "true",
+                    "ID_OPTION": "option1602491552526"
+                },
+
+                "MAST_BOOM_BLACK": {
+                    "ID_GROUP": "1018",
+                    "ID_INTERNAL": "2029",
+                    "ID_OPTION": "option1602258276219"
+                },
+
+                "DYNEEMA": {
+                    "ID_GROUP": "1019",
+                    "ID_INTERNAL": "2030"
+                },
+
+                "REEF": {
+                    "ID_GROUP": "1020",
+                    "ID_INTERNAL": "2078"
+                },
+
+                "CUNNINGHAM": {
+                    "ID_GROUP": "1021",
+                    "ID_INTERNAL": "2079"
+                }
+            }
+        },
+
+        "SAILS": {
+
+            "SAILS": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1023",
+                    "TYPE": "radio"
+                },
+
+                "JIB": {
+                    "ID_INTERNAL": "2031",
+                    "ID_OPTION": "option1602494124437"
+                },
+
+                "POLYANT": {
+                    "ID_INTERNAL": "2032",
+                    "ID_OPTION": "option1602494172294"
+                },
+
+                "MEMBRANE": {
+                    "ID_INTERNAL": "2081",
+                    "ID_OPTION": "option1602494210330"
+                },
+
+                "LITESKIN": {
+                    "ID_INTERNAL": "2017",
+                    "ID_OPTION": "option1602494281373"
+                }
+            },
+
+            "85SQM": {
+
+                "SETTING_OPTION": {
+                    "TARGET": "true",
+                    "ID_GROUP": "1024",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2033",
+                        "ID_OPTION": " "
+                    }
+                },
+
+                "TURQUOISE": {
+                    "ID_INTERNAL": "2034",
+                    "ID_OPTION": "option1602491562600"
+                },
+
+                "YELLOW": {
+                    "ID_INTERNAL": "2082",
+                    "ID_OPTION": "option1602491576447"
+                },
+
+                "BLACK": {
+                    "ID_INTERNAL": "2083",
+                    "ID_OPTION": "option1602491588923"
+                },
+
+                "RED": {
+                    "ID_INTERNAL": "2084",
+                    "ID_OPTION": "option1602491602522"
+                }
+            }    
+        },
+
+        "ELECT_SYSTEMES": {
+
+            "SPEED": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1040",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2057",
+                        "ID_OPTION": "option1602855531854"
+                    }
+                },
+
+                "ST_40": {
+                    "ID_INTERNAL": "2058",
+                    "ID_OPTION": "option1602855531854"
+                },
+
+                "I70": {
+                    "ID_INTERNAL": "2105",
+                    "ID_OPTION": "option1602855524266"
+                }
+            },
+
+            "OPTION": {
+
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "AXIOM7": {
+                    "ID_GROUP": "1041",
+                    "ID_INTERNAL": "2059",
+                    "ID_OPTION": "option1602855513933"
+                },
+
+                "EV-200": {
+                    "ID_GROUP": "1042",
+                    "ID_INTERNAL": "2060",
+                    "ID_OPTION": "option1602855570342"
+                },
+
+                "HELLA": {
+                    "ID_GROUP": "1064",
+                    "ID_INTERNAL": "2106",
+                    "ID_OPTION": "option1602855586646"
+                },
+
+                "NAV_LIGHTS": {
+                    "ID_GROUP": "1065",
+                    "ID_INTERNAL": "2126"
+                }
+            }
+        },
+
+        "ENGINE": {
+            
+            "ENGINE_POWER": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1043",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2061"
+                    }
+                },
+
+                "GASOLINE": {
+                    "ID_INTERNAL": "2062"
+                },
+
+                "ELECTRIC": {
+                    "ID_INTERNAL": "2107"
+                },
+
+                "YANMAR": {
+                    "ID_INTERNAL": "2108"
+                },
+
+                "GREENSTAR": {
+                    "ID_INTERNAL": "2109"
+                },
+
+                "POD_DRIVE": {
+                    "ID_INTERNAL": "2110"
+                }
+            },
+
+            "OPTION": {
+
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "FITTING": {
+                    "ID_GROUP": "1044",
+                    "ID_INTERNAL": "2063"
+                },
+
+                "ENGINE_BOX": {
+                    "ID_GROUP": "1045",
+                    "ID_INTERNAL": "2064"
+                },
+
+                "FOLDING": {
+                    "ID_GROUP": "1062",
+                    "ID_INTERNAL": "2111"
+                },
+
+                "FUEL_TANK": {
+                    "ID_GROUP": "1063",
+                    "ID_INTERNAL": "2112"
+                }
+            }
+        },
+
+        "OTHER_EXTRA": {
+
+            "OPTION": {
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "OPTION1": {
+                    "ID_GROUP": "1046",
+                    "ID_INTERNAL": "2065"
+                },
+
+                "OPTION2": {
+                    "ID_GROUP": "1047",
+                    "ID_INTERNAL": "2066"
+                },
+
+                "OPTION3": {
+                    "ID_GROUP": "1048",
+                    "ID_INTERNAL": "2113"
+                },
+
+                "OPTION4": {
+                    "ID_GROUP": "1049",
+                    "ID_INTERNAL": "2114"
+                },
+
+                "OPTION5": {
+                    "ID_GROUP": "1051",
+                    "ID_INTERNAL": "2115"
+                },
+
+                "OPTION6": {
+                    "ID_GROUP": "1052",
+                    "ID_INTERNAL": "2116"
+                },
+
+                "OPTION7": {
+                    "ID_GROUP": "1053",
+                    "ID_INTERNAL": "2117"
+                },
+
+                "OPTION8": {
+                    "ID_GROUP": "1054",
+                    "ID_INTERNAL": "2118"
+                },
+
+                "OPTION9": {
+                    "ID_GROUP": "1055",
+                    "ID_INTERNAL": "2119"
+                },
+
+                "OPTION10": {
+                    "ID_GROUP": "1056",
+                    "ID_INTERNAL": "2120"
+                },
+
+                "OPTION11": {
+                    "ID_GROUP": "1057",
+                    "ID_INTERNAL": "2121"
+                },
+
+                "OPTION12": {
+                    "ID_GROUP": "1058",
+                    "ID_INTERNAL": "2122"
+                },
+
+                "OPTION13": {
+                    "ID_GROUP": "1059",
+                    "ID_INTERNAL": "2123"
+                },
+
+                "OPTION14": {
+                    "ID_GROUP": "1060",
+                    "ID_INTERNAL": "2124"
+                },
+
+                "OPTION15": {
+                    "ID_GROUP": "1061",
+                    "ID_INTERNAL": "2125"
+                }
+            }
+        }
+    },
+
+    "MENU_INTERIOR": {
+
+        "ELECTRONIC_DEVICES": {
+
+            "OPTION": {
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "RADIO_CD": {
+                    "ID_GROUP": "1068",
+                    "ID_INTERNAL": "2131"
+                }
+            }
+        },
+
+        "INTERIOR_DESIGN": {
+
+            "HPL": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1025",
+                    "TYPE": "radio"
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2035",
+                    "ID_OPTION": "option1602687273045"
+                },
+
+                "GRAPHITE": {
+                    "ID_INTERNAL": "2036",
+                    "ID_OPTION": "option1602687280475"
+                },
+
+                "TEAK": {
+                    "ID_INTERNAL": "2085",
+                    "ID_OPTION": "option1602687264116"
+                },
+
+                "BIRTCH": {
+                    "ID_INTERNAL": "2086",
+                    "ID_OPTION": "option1602687288781"
+                }
+            },
+
+            "WOODEN_LOCKERS": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1028",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2041",
+                        "ID_OPTION": "option1602752122215"
+                    }
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2042",
+                    "ID_OPTION": "option1602688173329"
+                },
+
+                "GRAPHITE": {
+                    "ID_INTERNAL": "2093",
+                    "ID_OPTION": "option1602688183844"
+                },
+
+                "TEAK": {
+                    "ID_INTERNAL": "2094",
+                    "ID_OPTION": "option1602688194117"
+                },
+
+                "BIRTCH": {
+                    "ID_INTERNAL": "2095",
+                    "ID_OPTION": "option1602688219927"
+                }
+            },
+
+            "PLYWOOD_FLOOR": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1030",
+                    "TYPE": "radio"
+                },
+
+                "TEAK_BLACK": {
+                    "ID_INTERNAL": "2045",
+                    "ID_OPTION": "option1602688514255"
+                },
+
+                "TEAK_WHITE": {
+                    "ID_INTERNAL": "2046",
+                    "ID_OPTION": "option1602688521531"
+                },
+
+                "BLACK": {
+                    "ID_INTERNAL": "2098",
+                    "ID_OPTION": "option1602688530215"
+                }
+            },
+
+            "OPTION": {
+
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "BOX_TABLE": {
+                    "ID_GROUP": "1039",
+                    "ID_INTERNAL": "2103",
+                    "ID_OPTION": "option1602752433102"
+                }
+            }
+        },
+
+        "UPHOLSTERY": {
+
+            "MATT_BACKREST": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1026",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2037",
+                        "ID_OPTION": "option1602687501950"
+                    }
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2038",
+                    "ID_OPTION": "option1602687753118"
+                },
+
+                "BEIGE": {
+                    "ID_INTERNAL": "2087",
+                    "ID_OPTION": "option1602687768574"
+                },
+
+                "GRAPHITE": {
+                    "ID_INTERNAL": "2088",
+                    "ID_OPTION": "option1602687777453"
+                },
+
+                "BLUE": {
+                    "ID_INTERNAL": "2089",
+                    "ID_OPTION": "option1602687787260"
+                }
+            },
+
+            "LED": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1027",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2039",
+                        "ID_OPTION": "option1602751780793"
+                    }
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2040",
+                    "ID_OPTION": "option1602687944595"
+                },
+
+                "BEIGE": {
+                    "ID_INTERNAL": "2090",
+                    "ID_OPTION": "option1602687952848"
+                },
+
+                "GRAPHITE": {
+                    "ID_INTERNAL": "2091",
+                    "ID_OPTION": "option1602687981547"
+                },
+
+                "BLUE": {
+                    "ID_INTERNAL": "2092",
+                    "ID_OPTION": "option1602687992793"
+                }
+            },
+
+            "TEXTILE": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1029",
+                    "TYPE": "radio"
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2043",
+                    "ID_OPTION": "option1602688386398"
+                },
+
+                "BEIGE": {
+                    "ID_INTERNAL": "2044",
+                    "ID_OPTION": "option1602688393700"
+                },
+
+                "GRAPHITE": {
+                    "ID_INTERNAL": "2096",
+                    "ID_OPTION": "option1602688401388"
+                },
+
+                "BLUE": {
+                    "ID_INTERNAL": "2097",
+                    "ID_OPTION": "option1602688409826"
+                }
+            }
+        },
+        "CABINET": {
+
+            "2WOOD": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1031",
+                    "TYPE": "radio"
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2047",
+                    "ID_OPTION": "option1602688617947"
+                },
+
+                "GRAPHITE": {
+                    "ID_INTERNAL": "2048",
+                    "ID_OPTION": "option1602688627163"
+                },
+
+                "TEAK": {
+                    "ID_INTERNAL": "2099",
+                    "ID_OPTION": "option1602688637492"
+                },
+
+                "BIRTCH": {
+                    "ID_INTERNAL": "2100",
+                    "ID_OPTION": "option1602688650578"
+                }
+            },
+
+            "CABINET2": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1032",
+                    "TYPE": "radio"
+                },
+
+                "LIGHT_BEIGE": {
+                    "ID_INTERNAL": "2049",
+                    "ID_OPTION": "option1602688662964"
+                },
+
+                "DARK_GRAPHITE": {
+                    "ID_INTERNAL": "2050",
+                    "ID_OPTION": "option1602688693642"
+                }
+            },
+
+            "FRIDGE": {
+
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1035",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2127",
+                        "ID_OPTION": "option1602752640374"
+                    }
+                },
+
+                "BRUSHES": {
+                    "ID_INTERNAL": "2055",
+                    "ID_OPTION": "option1602688990130"
+                },
+
+                "WHITE": {
+                    "ID_INTERNAL": "2056",
+                    "ID_OPTION": "option1602688969308"
+                },
+
+                "BLACK": {
+                    "ID_INTERNAL": "2104",
+                    "ID_OPTION": "option1602688960442"
+                }
+            },
+
+            "OPTION": {
+                "SETTING_OPTION": {
+                    "TYPE": "checkbox"
+                },
+
+                "GLAS": {
+                    "ID_GROUP": "1036",
+                    "ID_INTERNAL": "2053",
+                    "ID_OPTION": "option1602752162765"
+                },
+
+                "INSTALLATION": {
+                    "ID_GROUP": "1037",
+                    "ID_INTERNAL": "2054",
+                    "ID_OPTION": "option1602752146960"
+                },
+
+                "TANK_50L": {
+                    "ID_GROUP": "1038",
+                    "ID_INTERNAL": "2102"
+                },
+
+                "BOX_TABLE": {
+                    "ID_GROUP": "1039",
+                    "ID_INTERNAL": "2103",
+                    "ID_OPTION": "option1602752433102"
+                }
+            }
+        },
+
+        "TOILET": {
+            "CHOICE" : {
+                "SETTING_OPTION": {
+                    "ID_GROUP": "1033",
+                    "TYPE": "radio",
+                    "ACTIVED": {
+                        "VALUE": "true",
+                        "ID_INTERNAL": "2051"
+                    }
+                },
+
+                "CHEMICAL": {
+                    "ID_INTERNAL": "2052"
+                },
+
+                "WITH_TANK": {
+                    "ID_INTERNAL": "2101"
+                }
+            }
+        }
+    }
+}
